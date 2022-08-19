@@ -14,3 +14,12 @@ $(function() {
         $("h1").text("ආයුබෝවන්");
     });
 });
+
+
+//Tamil
+$(function() {
+    $(".tm").click(function() {
+
+        $("h1").text("Wanakkam");
+    });
+});
